@@ -1,2 +1,2 @@
-# TextAnalyst
-Analyze, process and check the text files.
+# Disk Analyst
+Analyze, process and check the disk and files.
