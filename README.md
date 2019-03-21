@@ -27,3 +27,8 @@ Analyze, process and check the disk and files.
 
 **```$ da --file /home/max/webserver/main.go```**
 
+##### File(s)
+
+**```$ da --file /home/max/webserver/*.go```**
+
+
