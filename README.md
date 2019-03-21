@@ -19,5 +19,7 @@ Analyze, process and check the disk and files.
 
 **```$ da --help```**
 
+##### Directory
 
+**```$ da --dir /home/max/dir/```**
 
