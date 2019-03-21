@@ -19,15 +19,15 @@ Analyze, process and check the disk and files.
 
 **```$ da --help```**
 
-##### Directory
+##### Scan Directory
 
 **```$ da --dir /home/max/dir/```**
 
-##### File
+##### Scan File
 
 **```$ da --file /home/max/webserver/main.go```**
 
-##### File(s)
+##### Scan File(s)
 
 **```$ da --file /home/max/webserver/*.go```**
 
