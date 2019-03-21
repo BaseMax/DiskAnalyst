@@ -9,3 +9,15 @@ Analyze, process and check the disk and files.
 - Counting the number of **files**
 - Counting **file sizes**
 
+## Using
+
+#### Commands
+
+**```$ da```**
+
+##### Help
+
+**```$ da --help```**
+
+
+
