@@ -11,6 +11,8 @@ Analyze, process and check the disk and files.
 
 ## Using
 
+The "DA" is a Disk Analyst program.
+
 ### Commands
 
 **```$ da```**
