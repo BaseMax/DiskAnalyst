@@ -38,3 +38,4 @@ Analyze, process and check the disk and files.
 ##### Scan Partition(s)
 
 **```$ da --partition```**
+**```$ da -p```**
