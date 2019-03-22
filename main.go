@@ -8,3 +8,10 @@
 * @Repository : https://github.com/BaseMax/DiskAnalyst
 *
 **/
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
