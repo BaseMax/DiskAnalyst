@@ -4,10 +4,10 @@ Analyze, process and check the disk and files.
 
 ## Capabilities
 
-- Counting the number of **lines**
-- Counting the number of **words**
-- Counting the number of **files**
-- Counting **file sizes**
+- Counting the number of **lines** in the file.
+- Counting the number of **words** in the file.
+- Counting the number of **files** in the directory.
+- Counting **file sizes**.
 
 ## Using
 
